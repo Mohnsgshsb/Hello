@@ -8,7 +8,7 @@ mkdir tmp
 cd tmp/
 
 # Clone the repo
-git clone https://github.com/Nookure/NookTheme.git
+git clone https://github.com/Mohnsgshsb/Hello.git
 
 cd NookTheme
 
